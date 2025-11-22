@@ -1,0 +1,14 @@
+# h5_Belief_BaggedLinear
+Metric,Value
+MAE,0.0201
+RMSE,0.0251
+Coverage,0.8780
+AvgWidth,0.0782
+IntervalScore,0.1039
+UncertaintyAbsErrCorr,-0.1527
+CumulativePoint,0.8012
+CumulativeInterval,1.0000
+SharpePoint,-0.2821
+SharpeInterval,0.0000
+MaxDDPoint,-0.5497
+MaxDDInterval,0.0000

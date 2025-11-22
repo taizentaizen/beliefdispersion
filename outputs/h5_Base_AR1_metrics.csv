@@ -1,0 +1,14 @@
+# h5_Base_AR1
+Metric,Value
+MAE,0.0200
+RMSE,0.0251
+Coverage,0.8780
+AvgWidth,0.0777
+IntervalScore,0.1040
+UncertaintyAbsErrCorr,-0.1482
+CumulativePoint,0.7225
+CumulativeInterval,1.0000
+SharpePoint,-0.4076
+SharpeInterval,0.0000
+MaxDDPoint,-0.5588
+MaxDDInterval,0.0000

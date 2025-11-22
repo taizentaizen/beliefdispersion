@@ -1,0 +1,14 @@
+# h5_Base_BaggedLinear
+Metric,Value
+MAE,0.0201
+RMSE,0.0252
+Coverage,0.8712
+AvgWidth,0.0777
+IntervalScore,0.1051
+UncertaintyAbsErrCorr,-0.1535
+CumulativePoint,0.6162
+CumulativeInterval,1.0000
+SharpePoint,-0.5996
+SharpeInterval,0.0000
+MaxDDPoint,-0.5792
+MaxDDInterval,0.0000
